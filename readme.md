@@ -1,7 +1,7 @@
 # Tools using exam
 1. Replace `<your_account>` with your Github username in the links
-    - [DEMO LINK](https://<your_account>.github.io/{{put the repo name}}/)
-    - [TEST REPORT LINK](https://<your_account>.github.io/{{put the repo name}}/report/html_report/)
+    - [DEMO LINK](https://vkryvytskyy.github.io/tools-using-exam/)
+    - [TEST REPORT LINK](https://vkryvytskyy.github.io/tools-using-exam/report/html_report/)
     - [VIDEO LINK](https://www.loom.com/share/<video_id>)
 2. Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/)
 ___
@@ -18,7 +18,7 @@ ___
 1. Start project
 1. Find file `scroll.scss` using search by file names
 1. Change `margin-bottom` to `40px`
-1. Find all occurrences of `3rem` and replace with `4rem`
+1. Find all occurrences of `4rem` and replace with `4rem`
 1. Open Chrome devTools and find element with class `menu`
 1. Change background-color to `#8834fb`
 1. Add `opacity` property with value `0.7`
