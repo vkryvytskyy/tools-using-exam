@@ -5,7 +5,7 @@
   &__text {
     font-weight: bold;
     font-size: $commontext;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     @include laptop {
       font-size: $commontext-l;
     }
